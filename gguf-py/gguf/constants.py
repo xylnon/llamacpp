@@ -2283,6 +2283,7 @@ class VisionProjectorType:
     QWEN25VL = "qwen2.5vl_merger"
     ULTRAVOX = "ultravox"
     INTERNVL = "internvl"
+    FLORENCE2= "florence2"
 
 
 # Items here are (block size, type size)
